@@ -1,0 +1,10 @@
+.git/
+.idea/
+target/
+*.iml
+.DS_STORE
+.project/
+.settings/
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
