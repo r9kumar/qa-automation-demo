@@ -3,7 +3,7 @@
 target/
 *.iml
 .DS_STORE
-.project/
+.project
 .settings/
 .metadata/
 .recommenders/
